@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App News</string>
+    <string name="itemTitle">Titulo</string>
+    <string name="itemDescription">Descrição</string>
+    <string name="itemFont">Fonte</string>
+    <string name="itemData">Publicado em:</string>
+</resources>
